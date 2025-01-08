@@ -1,0 +1,23 @@
+{
+    "report_title": "Monthly Sales",
+    "month": "January 2025",
+    "total_sales": 11000,
+    "sales_by_category": [
+        {
+            "category": "Electrionic",
+            "amount": 4000
+        },
+        {
+            "category": "Furniture",
+            "amount": 3000
+        },
+        {
+            "category": "Clothing",
+            "amount": 2000
+        },
+        {
+            "category": "Toys",
+            "amount": 2000
+        }
+    ]
+}

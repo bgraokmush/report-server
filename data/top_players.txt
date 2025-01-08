@@ -1,0 +1,7 @@
+nickname,total_score,join_year
+Ironnette,15230,2014
+Mystic,15000,2015
+Bat Guy,14000,2016
+Superman,13000,2017
+Spiderman,12000,2018
+Stranger,11000,2019

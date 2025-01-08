@@ -1,0 +1,12 @@
+[package]
+name = "report-server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+axum = "0.8.1"
+csv = "1.3.1"
+serde = { version = "1.0.217", features = ["derive"] }
+serde_json = "1.0.135"
+tera = "1.20.0"
+tokio = { version = "1.42.0", features = ["full"] }

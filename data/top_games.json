@@ -1,0 +1,74 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "name": "League of Legends",
+            "developer": "Riot Games",
+            "genre": "MOBA",
+            "rating": 9.5
+        },
+        {
+            "id": 2,
+            "name": "Counter-Strike: Global Offensive",
+            "developer": "Valve",
+            "genre": "FPS",
+            "rating": 9.0
+        },
+        {
+            "id": 3,
+            "name": "Dota 2",
+            "developer": "Valve",
+            "genre": "MOBA",
+            "rating": 9.0
+        },
+        {
+            "id": 4,
+            "name": "World of Warcraft",
+            "developer": "Blizzard Entertainment",
+            "genre": "MMORPG",
+            "rating": 8.5
+        },
+        {
+            "id": 5,
+            "name": "Overwatch",
+            "developer": "Blizzard Entertainment",
+            "genre": "FPS",
+            "rating": 8.5
+        },
+        {
+            "id": 6,
+            "name": "Hearthstone",
+            "developer": "Blizzard Entertainment",
+            "genre": "Card Game",
+            "rating": 8.0
+        },
+        {
+            "id": 7,
+            "name": "Fortnite",
+            "developer": "Epic Games",
+            "genre": "Battle Royale",
+            "rating": 8.0
+        },
+        {
+            "id": 8,
+            "name": "Apex Legends",
+            "developer": "Respawn Entertainment",
+            "genre": "Battle Royale",
+            "rating": 8.0
+        },
+        {
+            "id": 9,
+            "name": "Minecraft",
+            "developer": "Mojang",
+            "genre": "Sandbox",
+            "rating": 8.0
+        },
+        {
+            "id": 10,
+            "name": "Grand Theft Auto V",
+            "developer": "Rockstar Games",
+            "genre": "Action",
+            "rating": 8.0
+        }
+    ]
+}
