@@ -24,7 +24,7 @@ This project is a demonstration of a report server built with Rust. It can read 
 - [Rust](https://www.rust-lang.org/)
 - [Axum](https://docs.rs/axum/0.8.1/axum/)
 - [Serde](https://serde.rs/)
-- [Tera](https://tera.netlify.app/)
+- [Tera](https://docs.rs/tera/latest/tera/)
 - [Tokio](https://tokio.rs/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
